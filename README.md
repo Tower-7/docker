@@ -1,4 +1,5 @@
-# 安装前准备
+
+#安装前准备
 yum install -y git &&\
 mkdir -p /config && \
 cd /config && \
