@@ -1,5 +1,6 @@
 
 #安装前准备
+
 yum install -y git &&\
 mkdir -p /config && \
 cd /config && \
@@ -8,5 +9,6 @@ cd docker && \
 python setupDockerCompose.py
 
 #测试是否安装成功
+
 docker ps
 docker-compose -v
