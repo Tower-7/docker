@@ -14,3 +14,6 @@ python setupDockerCompose.py
 docker ps
 docker-compose -v
 ```
+
+
+查看国内急速安装教程https://www.daocloud.io/
